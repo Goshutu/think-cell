@@ -5,5 +5,5 @@ using namespace std;
 
 void main()
 {
-    cout<<"Test";
+    cout<<"Test1";
 }
